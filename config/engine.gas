@@ -6,10 +6,10 @@
 	drag_select_threshold = 20;
 	object_fade_time = 0.3;
 	minimap_min_size = 20.0f;
-	minimap_max_size = 120.0f;
-	default_minimap_size = 90.0;
+	minimap_max_size = 144;
+	default_minimap_size = 108;
 	minimap_zoom_meters_per_second = 150.0f;
-	minimap_step_zoom_meters = 25.0f;
+	minimap_step_zoom_meters = 20;
 	minimap_partymember_tex = b_gui_ig_mnu_party_member;
 	minimap_orientarrow_tex = b_gui_ig_mnu_party_arrow;
 	minimap_selectionring_tex = b_gui_ig_mnu_circle_white;
@@ -17,7 +17,7 @@
 	minimap_selectiontri_tex = b_gui_ig_mnu_triangle_white;
 	minimap_tombstone_tex = b_gui_ig_mnu_tombstone;
 	minimap_innerfrustum_scale = 1.415f;
-	discovery_radius = 20.0f;
+	discovery_radius = 24;
 	discovery_sample_length = 5.0f;
 	streamer_node_time = 0.5f;
 	streamer_texture_time = 2.0f;
