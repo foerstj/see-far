@@ -290,6 +290,11 @@
 	mood_name = dsx_xp_region_4;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -318,6 +323,11 @@
 	mood_name = dsx_xp_region_4_noambient;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -346,6 +356,11 @@
 	mood_name = dsx_xp_region_5;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 48.000000;
@@ -374,6 +389,11 @@
 	mood_name = dsx_xp_region_5_noambient;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 48.000000;

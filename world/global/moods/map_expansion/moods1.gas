@@ -1156,6 +1156,11 @@
 	mood_name = map_expansion_a1_interior;
   f transition_time = 1.500000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1231,6 +1236,11 @@
 	mood_name = map_expansion_a1_basement;
   f transition_time = 1.500000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -2369,6 +2379,11 @@
 	mood_name = map_expansion_a1_tavern;
   f transition_time = 1.500000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -2444,6 +2459,11 @@
 	mood_name = map_expansion_a1_blacksmith;
   f transition_time = 1.500000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -5829,6 +5849,11 @@
 	mood_name = map_expansion_a5_r4_hub1;
   f transition_time = 3.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -5857,6 +5882,11 @@
 	mood_name = map_expansion_a5_r4_hub2;
   f transition_time = 3.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -5885,6 +5915,11 @@
 	mood_name = map_expansion_a5_r4_hub3;
   f transition_time = 3.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -5913,6 +5948,11 @@
 	mood_name = map_expansion_a5_r4_hub4;
   f transition_time = 3.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -6949,6 +6989,11 @@
 	mood_name = map_expansion_a6_r6_towerhub;
   f transition_time = 3.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -6977,6 +7022,11 @@
 	mood_name = map_expansion_a6_r6_towerhub_quick;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 1300.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;

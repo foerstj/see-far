@@ -3,6 +3,11 @@
 	mood_name = gpg_world_3_tr_01_rt_01;
   f transition_time = 0.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 18.000000;
@@ -25,6 +30,11 @@
 	mood_name = gpg_world_3_tr_01_rt_01a;
   f transition_time = 1.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 18.000000;
@@ -47,6 +57,11 @@
 	mood_name = gpg_world_3_tr_01_rt_01_01;
   f transition_time = 1.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 18.000000;
@@ -73,6 +88,11 @@
 	mood_name = gpg_world_3_tr_01_rt_01_02;
   f transition_time = 1.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 18.000000;
@@ -99,6 +119,11 @@
 	mood_name = gpg_world_3_tr_01_rt_01_03;
   f transition_time = 1.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 18.000000;
@@ -125,6 +150,11 @@
 	mood_name = gpg_world_3_tr_01_rt_01_04;
   f transition_time = 1.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 18.000000;
@@ -151,6 +181,11 @@
 	mood_name = gpg_world_3_tr_01_rt_01_05;
   f transition_time = 1.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 18.000000;
@@ -177,6 +212,11 @@
 	mood_name = gpg_world_3_tr_01_rt_01_06;
   f transition_time = 1.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 18.000000;
@@ -203,6 +243,11 @@
 	mood_name = gpg_world_3_tr_01_rt_01_07;
   f transition_time = 1.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 9.600000;
@@ -229,6 +274,11 @@
 	mood_name = gpg_world_3_tr_01_rt_02;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 0.012000;
@@ -253,6 +303,11 @@
 	mood_name = gpg_world_3_tr_01_rt_02_01;
   f transition_time = 0.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 0.012000;
@@ -274,6 +329,11 @@
 	mood_name = gpg_world_3_tr_02_st_01;
   f transition_time = 0.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -351,6 +411,11 @@
 	mood_name = gpg_world_3_tr_02_st_02;
   f transition_time = 0.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -424,6 +489,11 @@
 	mood_name = gpg_world_3_tr_02_st_03;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -501,6 +571,11 @@
 	mood_name = gpg_world_3_tr_02_st_04;
   f transition_time = 0.500000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 0.012000;
@@ -521,6 +596,11 @@
 	mood_name = gpg_world_3_sq_01_sm_01;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -598,6 +678,11 @@
 	mood_name = gpg_world_3_sq_02_sm_01;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -680,6 +765,11 @@
 	mood_name = gpg_world_3_sq_02_sm_02;
   f transition_time = 10.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -762,6 +852,11 @@
 	mood_name = gpg_world_3_sq_02_sm_03;
   f transition_time = 15.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -839,6 +934,11 @@
 	mood_name = gpg_world_3_sq_03_sm_01;
   f transition_time = 10.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -916,6 +1016,11 @@
 	mood_name = gpg_world_3_sq_03_sm_02;
   f transition_time = 15.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -998,6 +1103,11 @@
 	mood_name = gpg_world_3_sq_03_sm_03;
   f transition_time = 2.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1080,6 +1190,11 @@
 	mood_name = gpg_world_3_sq_04_ic_01;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1153,6 +1268,11 @@
 	mood_name = gpg_world_3_sq_04_ic_02;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1226,6 +1346,11 @@
 	mood_name = gpg_world_3_sq_04_ic_03;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1299,6 +1424,11 @@
 	mood_name = gpg_world_3_sq_05_ic_01;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1372,6 +1502,11 @@
 	mood_name = gpg_world_3_sq_05_ic_02_01;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1445,6 +1580,11 @@
 	mood_name = gpg_world_3_sq_05_ic_02_02;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1518,6 +1658,11 @@
 	mood_name = gpg_world_3_sq_05_ic_02_03;
   f transition_time = 0.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1584,6 +1729,11 @@
 	mood_name = gpg_world_3_sq_05_ic_02_04;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1657,6 +1807,11 @@
 	mood_name = gpg_world_3_sq_05_ic_02_05;
   f transition_time = 10.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1730,6 +1885,11 @@
 	mood_name = gpg_world_3_sq_05_ic_02_06;
   f transition_time = 6.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -1803,6 +1963,11 @@
 	mood_name = gpg_world_3_sq_05_ic_03;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -3040,6 +3205,11 @@
 	mood_name = gpg_world_3_ll_01_hf_03;
   f transition_time = 4.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3066,6 +3236,11 @@
 	mood_name = gpg_world_3_ll_02_hf_01;
   f transition_time = 9.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 15.000000;
@@ -3092,6 +3267,11 @@
 	mood_name = gpg_world_3_ll_02_hf_02;
   f transition_time = 4.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 15.000000;
@@ -3114,6 +3294,11 @@
 	mood_name = gpg_world_3_ll_03_hf_01;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3136,6 +3321,11 @@
 	mood_name = gpg_world_3_ll_05_uc_01;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3158,6 +3348,11 @@
 	mood_name = gpg_world_3_ll_05_uc_02;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3180,6 +3375,11 @@
 	mood_name = gpg_world_3_ll_05_uc_03;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3202,6 +3402,11 @@
 	mood_name = gpg_world_3_ll_05_uc_04;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3224,6 +3429,11 @@
 	mood_name = gpg_world_3_ll_05_uc_05;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3246,6 +3456,11 @@
 	mood_name = gpg_world_3_ll_05_uc_06;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3268,6 +3483,11 @@
 	mood_name = gpg_world_3_ll_06_uc_01;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3290,6 +3510,11 @@
 	mood_name = gpg_world_3_ll_06_uc_02;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3312,6 +3537,11 @@
 	mood_name = gpg_world_3_ll_06_uc_03;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3334,6 +3564,11 @@
 	mood_name = gpg_world_3_ll_06_uc_04;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 18.000000;
@@ -3356,6 +3591,11 @@
 	mood_name = gpg_world_3_ll_06_uc_05;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3378,6 +3618,11 @@
 	mood_name = gpg_world_3_tr_04_des_01;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -3400,6 +3645,11 @@
 	mood_name = gpg_world_3_tr_04_des_01_01;
   f transition_time = 1.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -3426,6 +3676,11 @@
 	mood_name = gpg_world_3_tr_04_des_02;
   f transition_time = 0.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -3448,6 +3703,11 @@
 	mood_name = gpg_world_3_fk_01_dc_01;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3475,6 +3735,11 @@
 	mood_name = gpg_world_3_fk_01_dc_02;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3502,6 +3767,11 @@
 	mood_name = gpg_world_3_fk_01_dc_03;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3529,6 +3799,11 @@
 	mood_name = gpg_world_3_fk_01_dc_04;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3556,6 +3831,11 @@
 	mood_name = gpg_world_3_fk_01_dc_05;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3583,6 +3863,11 @@
 	mood_name = gpg_world_3_fk_02_dc_01;
   f transition_time = 8.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3610,6 +3895,11 @@
 	mood_name = gpg_world_3_fk_02_dc_02;
   f transition_time = 15.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3637,6 +3927,11 @@
 	mood_name = gpg_world_3_fk_02_dc_03;
   f transition_time = 15.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3664,6 +3959,11 @@
 	mood_name = gpg_world_3_fk_02_dc_04;
   f transition_time = 15.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3691,6 +3991,11 @@
 	mood_name = gpg_world_3_fk_02_dc_05;
   f transition_time = 2.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -3718,6 +4023,11 @@
 	mood_name = gpg_world_3_fk_03_lc_01;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3740,6 +4050,11 @@
 	mood_name = gpg_world_3_fk_03_lc_02;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3762,6 +4077,11 @@
 	mood_name = gpg_world_3_fk_03_lc_03;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3783,6 +4103,11 @@
 	mood_name = gpg_world_3_fk_03_lc_04;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3804,6 +4129,11 @@
 	mood_name = gpg_world_3_fk_03_lc_04_01;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3826,6 +4156,11 @@
 	mood_name = gpg_world_3_fk_03_lc_05;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3847,6 +4182,11 @@
 	mood_name = gpg_world_3_fk_03_lc_06;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3868,6 +4208,11 @@
 	mood_name = gpg_world_3_fk_03_lc_06_01;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3890,6 +4235,11 @@
 	mood_name = gpg_world_3_fk_03_lc_07;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3911,6 +4261,11 @@
 	mood_name = gpg_world_3_fk_04_df_01;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3932,6 +4287,11 @@
 	mood_name = gpg_world_3_fk_04_df_02;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3953,6 +4313,11 @@
 	mood_name = gpg_world_3_fk_04_df_03;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3974,6 +4339,11 @@
 	mood_name = gpg_world_3_fk_04_df_04;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -3996,6 +4366,11 @@
 	mood_name = gpg_world_3_fk_04_df_04_01;
   f transition_time = 2.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 24.000000;
@@ -4018,6 +4393,11 @@
 	mood_name = gpg_world_3_fk_04_df_05;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -4040,6 +4420,11 @@
 	mood_name = gpg_world_3_fk_04_df_06;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -4062,6 +4447,11 @@
 	mood_name = gpg_world_3_fk_04_df_07;
   f transition_time = 0.500000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -4084,6 +4474,11 @@
 	mood_name = gpg_world_3_fk_04_df_08;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -4106,6 +4501,11 @@
 	mood_name = gpg_world_3_tr_06_dun_01;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -4128,6 +4528,11 @@
 	mood_name = gpg_world_3_tr_06_dun_02;
   f transition_time = 5.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -4150,6 +4555,11 @@
 	mood_name = gpg_world_3_tr_05_ruin_01;
   f transition_time = 2.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;

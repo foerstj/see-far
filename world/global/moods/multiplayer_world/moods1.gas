@@ -544,6 +544,11 @@
 	mood_name = multiplayer_world_crypts2sd_1;
   f transition_time = 7.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 25.200000;
@@ -569,6 +574,11 @@
 	mood_name = multiplayer_world_crypts2sd_2;
   f transition_time = 7.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -594,6 +604,11 @@
 	mood_name = multiplayer_world_crypts2sd_3;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -619,6 +634,11 @@
 	mood_name = multiplayer_world_crypts2sd_4;
   f transition_time = 5.000000;
   b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 42.000000;
@@ -1395,6 +1415,11 @@
 	mood_name = multiplayer_world_df2ds_5;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -1417,6 +1442,11 @@
 	mood_name = multiplayer_world_df2ds_6;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -3419,6 +3449,11 @@
 	mood_name = multiplayer_world_hub_quest_dun_1;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3441,6 +3476,11 @@
 	mood_name = multiplayer_world_hub_quest_dun_2;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3463,6 +3503,11 @@
 	mood_name = multiplayer_world_hub_quest_dun_3;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3484,6 +3529,11 @@
 	mood_name = multiplayer_world_hub_quest_dun_4;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 36.000000;
@@ -3829,6 +3879,11 @@
 	mood_name = multiplayer_world_id_r2_1;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -3904,6 +3959,11 @@
 	mood_name = multiplayer_world_id_r2_2;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[sun]
 	{
 		[00h00m]
@@ -9710,6 +9770,11 @@
 	mood_name = multiplayer_world_wd_r1_1;
   f transition_time = 1.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -9732,6 +9797,11 @@
 	mood_name = multiplayer_world_wd_r1_2;
   f transition_time = 4.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -9754,6 +9824,11 @@
 	mood_name = multiplayer_world_wd_r1_3;
   f transition_time = 4.000000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -9776,6 +9851,11 @@
 	mood_name = multiplayer_world_wd_r1_4;
   f transition_time = 0.500000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
@@ -9798,6 +9878,11 @@
 	mood_name = multiplayer_world_wd_r1_5;
   f transition_time = 0.500000;
   b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 58.500000;
+	  f frustum_height = 78.000000;
+	}
 	[fog]
 	{
 	  f fog_near_dist = 30.000000;
