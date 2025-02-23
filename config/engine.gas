@@ -1,0 +1,27 @@
+[engine_settings]
+{
+	node_fade_time = 0.4;
+	node_fade_alpha = 32;
+	node_fade_black = 0;
+	drag_select_threshold = 20;
+	object_fade_time = 0.3;
+	minimap_min_size = 20.0f;
+	minimap_max_size = 120.0f;
+	default_minimap_size = 90.0;
+	minimap_zoom_meters_per_second = 150.0f;
+	minimap_step_zoom_meters = 25.0f;
+	minimap_partymember_tex = b_gui_ig_mnu_party_member;
+	minimap_orientarrow_tex = b_gui_ig_mnu_party_arrow;
+	minimap_selectionring_tex = b_gui_ig_mnu_circle_white;
+	minimap_discovery_tex = b_gui_ig_mnu_discovery;
+	minimap_selectiontri_tex = b_gui_ig_mnu_triangle_white;
+	minimap_tombstone_tex = b_gui_ig_mnu_tombstone;
+	minimap_innerfrustum_scale = 1.415f;
+	discovery_radius = 20.0f;
+	discovery_sample_length = 5.0f;
+	streamer_node_time = 0.5f;
+	streamer_texture_time = 2.0f;
+	streamer_go_time = 1.0f;
+	streamer_lodfi_time = 1.5f;
+	streamer_overflow_time = 1.0f;
+}

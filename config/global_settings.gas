@@ -1,0 +1,110 @@
+[global_settings]
+{
+	[locale]
+	{
+		dismemberment_option = true;
+		red_blood_option = true;
+		resize_labels = true;
+		eula_name = eula.rtf;
+		warranty_name = warranty.rtf;
+		name_prefix_first = true;
+	}
+	[selection_indicators]
+	{
+		texture_default = "art\bitmaps\gui\cursors\b_gui_c_select_wht.%img%";
+		texture_focus = "art\bitmaps\gui\cursors\b_gui_c_select_wht_fill.%img%";
+		item_color = 0.080, 0.080, 0.625;
+		enemy_color = 0.525, 0.080, 0.080;
+		friend_color = 0.080, 0.625, 0.080;
+		party_member_color = 0.080, 0.525, 0.080;
+		focus_go_color = 0.080, 0.700, 0.080;
+		dead_enemy_color = 0.000, 0.000, 0.000;
+		dead_friend_color = 0.000, 0.000, 0.230;
+	}
+	[tooltip_colors]
+	{
+		magic = 0xff5789e9;
+		unique = 0xffcacb44;
+		rare = 0xff9b9bfb;
+		set_item = 0xff00e8e8;
+		set_item_complete = 0xff00ff00;
+		required = 0xffff0000;
+		nature_magic = 0xff43ca83;
+		combat_magic = 0xffeaa935;
+		small_combo = 0xff5789e9;
+		negative = 0xff995422;
+		imbued = 0xffC080FF;
+		rollover_cast = 0xff62a5c4;
+		rollover_dead = 0xffff0000;
+		rollover_unconscious = 0xffffff00;
+		rollover_ghost = 0xffc0c0c0;
+	}
+	[gui_font_map]
+	{
+		default = "MS Gothic,15";
+		b_gui_fnt_12p_copperplate-light = "MS Gothic,14";
+		b_gui_fnt_14p_copperplate-light = "MS Gothic,16";
+		b_gui_fnt_16p_copperplate-light = "MS Gothic,18";
+		b_gui_fnt_20p_copperplate-light = "MS Gothic,22";
+		b_gui_fnt_30p-numbers = "MS Gothic,32";
+		subtitle_font = "MS Gothic,16";
+	}
+	[gui_misc]
+	{
+		item_drag_tolerance = 4;
+	}
+	[gui_linespacer_map]
+	{
+		dialogue_box = 0;
+		text_subtitle = 0;
+		console_box = 0;
+		default = 0;
+	}
+	[portrait_colors]
+	{
+		portrait_inactive_color = 0x55c0c0c0;
+	}
+	[inventory_highlights]
+	{
+		grid_invalid = 0x33ff0000;
+		grid_active_spell_book = 0x666F6F6F;
+		grid_rollover = 0x666F6F6F;
+		grid_rollover_overlap = 0x66FFFFFF;
+		grid_magic = 0x3368acf8;
+		grid_set_item = 0x3300e8e8;
+		grid_imbued = 0x33AE00AE;
+	}
+	[character_panel_highlights]
+	{
+		text_positive = 0xff0088ff;
+		text_negative = 0xffff0000;
+	}
+	[save_game_settings]
+	{
+		thumbnail_width = 80;
+		thumbnail_height = 60;
+		quick_save_color = 0x3368acf8;
+		auto_save_color = 0x3368acf8;
+		max_party_save_period = 120;
+		min_party_save_period = 10;
+	}
+	[journal_settings]
+	{
+		chapter_color = 0xffffE6a0;
+		active_quest_color = 0xffffffff;
+		completed_quest_color = 0xff141414;
+		speaker_color = 0xff3A200A;
+	}
+	[timeouts]
+	{
+	  f surface_expiration_time = 15.000000;
+	  f clonesrc_expiration_time = 60.000000;
+	  f clonesrc_expire_check_time = 5.000000;
+	  f recent_deletion_retire_time = 30.000000;
+	  f ui_logo_time = 13.000000;
+	}
+	[mega_map]
+	{
+		show_border_meters = 75.0f;
+	}
+}
