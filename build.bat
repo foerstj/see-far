@@ -11,10 +11,14 @@ set tc=%TankCreator%
 set copyright=CC-BY-SA 2025
 set author=Johannes Förstner
 
+:: param
+set name=%1
+echo %name%
+
 :: Compile resource file
 rmdir /S /Q "%tmp%\Bits"
 robocopy "%bits%\world\global\moods" "%tmp%\Bits\world\global\moods" /E
-"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%mod_cs%.dsres" -copyright "%copyright%" -title "%mod_cs%" -author "%author%"
+"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%mod_cs%%name%.dsres" -copyright "%copyright%" -title "%mod_cs%%name%" -author "%author%"
 if %errorlevel% neq 0 pause
 
 :: Cleanup
