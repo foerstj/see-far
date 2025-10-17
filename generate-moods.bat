@@ -5,7 +5,7 @@ set bits=%~dp0.
 set edit=%1
 echo %edit%
 if "%edit%"=="" (
-  set edit=1.2:1.25:1.3
+  set edit=1.2:1.2:1.2
 )
 
 pushd "%GasPy%"
