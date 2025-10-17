@@ -105,6 +105,6 @@
 	}
 	[mega_map]
 	{
-		show_border_meters = 85;
+		show_border_meters = 75;
 	}
 }

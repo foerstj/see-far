@@ -5,7 +5,7 @@ set bits=%~dp0.
 set config_edit=%1
 echo %config_edit%
 if "%config_edit%"=="" (
-  set config_edit=144:108:20:24:85
+  set config_edit=120:90:25:20:75
 )
 for /f "tokens=1,2,3,4,5 delims=:" %%a in ("%config_edit%") do (
   set ce[0]=%%a
