@@ -13,6 +13,7 @@ Originals from SeeFar 2020:
 Firstie's SeeFar Builds version 1.0:
 - Added support for moods of Yesterhaven & Return to Arhok
 - Included teleport fix (keeping original distances for the black teleport moods)
+- Don't break the Gom cutscene
 Version 1.1:
 - Values changed very slightly for consistency: the number e.g. 50 means +50% fog far-distance, etc.
 - Added a SeeFar0 build just for testing purposes
