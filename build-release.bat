@@ -20,7 +20,7 @@ call .\generate-moods.bat 1.9:2.0:2.1:12 && call .\build.bat  100_Plus12
 :: these ones are just meant for visuals, not gameplay
 call .\generate-config.bat 180:135:20:30:100
 call .\generate-moods.bat 2.8:3.0:3.2:12 && call .\build.bat  200_Plus12
-call .\generate-moods.bat 1:3.0:3.2:12 && call .\build.bat  200_Plus12_Foggy
+call .\generate-moods.bat 1:3.0:3.2:12 && call .\build.bat  200_Plus12_Nearfog
 
 :: cleanup
 call .\generate-config.bat
