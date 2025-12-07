@@ -22,3 +22,5 @@ Version 1.1:
 Version 1.1.1:
 - Renamed "Foggy" build to "Nearfog"
 - Fixed some moods in KoE&UP where I had accidentally mixed in some changed music repeat delays
+Version 1.2:
+- Added variant builds based on Wintermod
