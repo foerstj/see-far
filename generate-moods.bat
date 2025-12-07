@@ -9,6 +9,6 @@ if "%edit%"=="" (
 )
 
 pushd "%GasPy%"
-venv\Scripts\python -m landscaping.edit_moods --bits "%bits%" --src git-ignore\moods --edit see-far:%edit%
+venv\Scripts\python -m landscaping.edit_moods --bits "%bits%" --src source\moods --edit see-far:%edit%
 if %errorlevel% neq 0 pause
 popd
