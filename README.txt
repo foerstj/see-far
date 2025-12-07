@@ -17,4 +17,8 @@ Firstie's SeeFar Builds version 1.0:
 Version 1.1:
 - Values changed very slightly for consistency: the number e.g. 50 means +50% fog far-distance, etc.
 - Added a SeeFar0 build just for testing purposes
-- Added a SeeFar200 build for visual purposes only (not gameplay), and a "Foggy" variant where the fog near-distance isn't changed (barely visible tho)
+- Added a SeeFar200 build for visual purposes only (not gameplay)
+- Added a "Foggy" variant for SeeFar200 where the fog near-distance isn't changed. Difference isn't big, but it makes for a more gradual transition to the background fog color. (I used it in ambience videos.)
+Version 1.1.1:
+- Renamed "Foggy" build to "Nearfog"
+- Fixed some moods in KoE&UP where I had accidentally mixed in some changed music repeat delays
