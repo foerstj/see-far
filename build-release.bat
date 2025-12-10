@@ -1,7 +1,6 @@
 call .\cleanup.bat
 
-call .\build-release-variant.bat
-call .\build-release-variant.bat Wintermod
+call .\build-release-variant.bat Autumn
 
 :: cleanup
 call .\generate-config.bat
