@@ -24,5 +24,6 @@ Version 1.1.1:
 - Fixed some moods in KoE&UP where I had accidentally mixed in some changed music repeat delays
 Version 1.2:
 - Added variant builds based on Wintermod moods - use them together with Wintermod
-Version 1.2.1:
+Version 1.3:
+- Updated Wintermod moods
 - Added SeeFar0_Plus6, SeeFar0_Plus12, SeeFar200, and SeeFar200_Plus6
