@@ -3045,7 +3045,7 @@
 {
 	mood_name = map_expansion_a2_r1_rain;
   f transition_time = 5.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3149,7 +3149,7 @@
 {
 	mood_name = map_expansion_a2_r1_jungle1;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3187,7 +3187,7 @@
 {
 	mood_name = map_expansion_a2_r1_jungle2;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3230,7 +3230,7 @@
 {
 	mood_name = map_expansion_a2_r1_jungle3;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3268,7 +3268,7 @@
 {
 	mood_name = map_expansion_a2_r3_coastal1;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3306,7 +3306,7 @@
 {
 	mood_name = map_expansion_a2_r3_coastal2;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3344,7 +3344,7 @@
 {
 	mood_name = map_expansion_a2_r3_coastal3;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3481,7 +3481,7 @@
 {
 	mood_name = map_expansion_a2_r5_coastal;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3519,7 +3519,7 @@
 {
 	mood_name = map_expansion_a2_r5_coastal2;
   f transition_time = 4.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3557,7 +3557,7 @@
 {
 	mood_name = map_expansion_a2_r0a_beach;
   f transition_time = 3.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3584,7 +3584,7 @@
 		ambient_track = s_e_env_ocean;
 	  f standard_intro_delay = 0.000000;
 	  f standard_repeat_delay = 25.000000;
-		standard_track = s_m_coastaloutpost_01;
+		standard_track = s_m_arhok;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
 		battle_track = ;
@@ -3595,7 +3595,7 @@
 {
 	mood_name = map_expansion_a2_r0a_beach2;
   f transition_time = 3.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3622,7 +3622,7 @@
 		ambient_track = s_e_ambient_jungle_1;
 	  f standard_intro_delay = 0.000000;
 	  f standard_repeat_delay = 25.000000;
-		standard_track = s_m_coastaloutpost_01;
+		standard_track = s_m_arhok;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
 		battle_track = ;
@@ -3633,7 +3633,7 @@
 {
 	mood_name = map_expansion_a2_r0a_beach3;
   f transition_time = 3.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3660,7 +3660,7 @@
 		ambient_track = s_e_ambient_jungle_2;
 	  f standard_intro_delay = 0.000000;
 	  f standard_repeat_delay = 25.000000;
-		standard_track = s_m_coastaloutpost_01;
+		standard_track = s_m_arhok;
 	  f battle_intro_delay = 0.000000;
 	  f battle_repeat_delay = 0.000000;
 		battle_track = ;
@@ -3671,7 +3671,7 @@
 {
 	mood_name = map_expansion_a2_r6_illicor1;
   f transition_time = 3.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
@@ -3709,7 +3709,7 @@
 {
 	mood_name = map_expansion_a2_r6_illicor1a;
   f transition_time = 3.000000;
-  b interior = true;
+  b interior = false;
 	[frustum]
 	{
 	  f frustum_width = 45.000000;
