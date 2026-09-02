@@ -26,6 +26,7 @@ call .\generate-config.bat 180:135:20:30:100
 call .\generate-moods.bat 1.9:2.0:2.1:0  %variant% && call .\build.bat  100%suffix%
 call .\generate-moods.bat 1.9:2.0:2.1:6  %variant% && call .\build.bat  100_Plus6%suffix%
 call .\generate-moods.bat 1.9:2.0:2.1:12 %variant% && call .\build.bat  100_Plus12%suffix%
+call .\generate-moods.bat 1:2.0:2.1:12 %variant% && call .\build.bat  100_Plus12_Nearfog%suffix%
 
 :: these ones are just meant for visuals, not gameplay
 call .\generate-config.bat 180:135:20:30:100
