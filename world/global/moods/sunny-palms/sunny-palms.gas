@@ -1,0 +1,168 @@
+[mood_setting*]
+{
+	mood_name = sunny-palms-island-a;
+  f transition_time = 8.000000;
+  b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 75.000000;
+	  f frustum_height = 75.000000;
+	}
+	[fog]
+	{
+	  f fog_near_dist = 45.000000;
+	  f fog_far_dist = 75.000000;
+	  f fog_lowdetail_near_dist = 20.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
+	  x fog_color = 0xFF708090;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = s_e_env_birds;
+		standard_intro_delay = 8.0f;
+		standard_repeat_delay = 12.0f;
+		standard_track = s_m_besiegedtown_04;
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = sunny-palms-island-b;
+  f transition_time = 8.000000;
+  b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 75.000000;
+	  f frustum_height = 75.000000;
+	}
+	[fog]
+	{
+	  f fog_near_dist = 45.000000;
+	  f fog_far_dist = 75.000000;
+	  f fog_lowdetail_near_dist = 20.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
+	  x fog_color = 0xFF708090;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = s_e_env_birds;
+		standard_intro_delay = 8.0f;
+		standard_repeat_delay = 12.0f;
+		standard_track = s_m_besiegedtown_02;
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = sunny-palms-island-b-quick;
+  f transition_time = 4.000000;
+  b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 75.000000;
+	  f frustum_height = 75.000000;
+	}
+	[fog]
+	{
+	  f fog_near_dist = 45.000000;
+	  f fog_far_dist = 75.000000;
+	  f fog_lowdetail_near_dist = 20.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
+	  x fog_color = 0xFF708090;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = s_e_env_birds;
+		standard_intro_delay = 4.0f;
+		standard_repeat_delay = 12.0f;
+		standard_track = s_m_besiegedtown_02;
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = sunny-palms-island-beach;
+  f transition_time = 8.000000;
+  b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 75.000000;
+	  f frustum_height = 75.000000;
+	}
+	[fog]
+	{
+	  f fog_near_dist = 45.000000;
+	  f fog_far_dist = 75.000000;
+	  f fog_lowdetail_near_dist = 20.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
+	  x fog_color = 0xFF708090;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = s_e_env_birds;
+		standard_intro_delay = 8.0f;
+		standard_repeat_delay = 12.0f;
+		standard_track = s_m_besiegedtown_01;
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = sunny-palms-island-peak;
+  f transition_time = 8.000000;
+  b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 75.000000;
+	  f frustum_height = 75.000000;
+	}
+	[fog]
+	{
+	  f fog_near_dist = 45.000000;
+	  f fog_far_dist = 75.000000;
+	  f fog_lowdetail_near_dist = 20.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
+	  x fog_color = 0xFF708090;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = s_e_ambient_wind_01;
+		standard_intro_delay = 8.0f;
+		standard_repeat_delay = 12.0f;
+		standard_track = s_m_king_intro;
+		room_type = rt_generic;
+	}
+}
+[mood_setting*]
+{
+	mood_name = sunny-palms-cave;
+  f transition_time = 2.000000;
+  b interior = true;
+	[frustum]
+	{
+	  f frustum_width = 75.000000;
+	  f frustum_height = 75.000000;
+	}
+	[fog]
+	{
+	  f fog_near_dist = 45.000000;
+	  f fog_far_dist = 75.000000;
+	  f fog_lowdetail_near_dist = 20.000000;
+	  f fog_lowdetail_far_dist = 35.000000;
+	  x fog_color = 0xFF000000;
+		fog_density = 0.5f;
+	}
+	[music]
+	{
+		ambient_track = ;
+		standard_intro_delay = 3.0f;
+		standard_repeat_delay = 6.0f;
+		standard_track = s_m_path2crypts_01;
+		room_type = rt_generic;
+	}
+}
